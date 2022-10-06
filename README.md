@@ -6,18 +6,9 @@ I utlized a SQLlite database and  SQLalchemy was used to connect and extract dat
 
 ______________
 
- **Results:** Provide a bulleted list with three major points from the two analysis deliverables. Use images as support where needed.
-
-June
-
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c3592247-0fe2-467b-9c0e-caa9ffb6bea8/Untitled.png)
-
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f2d70adc-73f5-4043-aea2-9c076f56020e/Untitled.png)
-
-December
+ **Results:**
 
 -The mean temperature in June was 74.9 ( with a deviation of 3 degrees) degrees compared to the mean temperature of 71.0( with a deviation of 4 degrees)  degrees in December.
-
 - The lower quartile range was 73 degrees in June and 69 degrees in December.
 - The upper quartile range was 77 degrees in June and 74 degrees in December.
 
